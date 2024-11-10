@@ -1,0 +1,17 @@
+[
+    {
+        "text": "Go shopping",
+        "due": "Due today",
+        "completed": false
+    },
+    {
+        "text": "Call mom",
+        "due": "Until tomorrow",
+        "completed": false
+    },
+    {
+        "text": "Read a book",
+        "due": "No due date",
+        "completed": false
+    }
+]
