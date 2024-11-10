@@ -12,10 +12,10 @@ A sleek and modern To-Do List application built with Python and the Flet library
 ## Screenshots
 
 ### Light Theme
-![Light Theme](./images/light-theme.png)
+![Light Theme](./Theme/light_theme.jpg)
 
 ### Dark Theme
-![Dark Theme](./images/dark-theme.png)
+![Dark Theme](./Theme/dark_theme.jpg)
 
 ## Technologies Used
 
